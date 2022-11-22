@@ -1,3 +1,10 @@
+# Google clone
+This is a clone of the search functionalities for google. It is based off of a Sahand Ghavidel code along, Nov 22
+
+
+New to me:
+Tailwind template: Made a directive for Link
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
