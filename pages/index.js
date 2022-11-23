@@ -3,6 +3,7 @@ import Image from 'next/image';
 import Header from '../components/header';
 import { SearchIcon } from '@heroicons/react/solid';
 import { CameraIcon } from '@heroicons/react/outline';
+import Footer from '../components/Footer';
 
 export default function Home() {
   return (
@@ -39,6 +40,7 @@ export default function Home() {
       </form>
 
       {/*<Footer/>*/}
+      <Footer />
     </div>
   );
 }
