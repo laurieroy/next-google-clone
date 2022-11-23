@@ -4,6 +4,7 @@ This is a clone of the search functionalities for google. It is based off of a S
 
 New to me:
 Tailwind template: Made a directive for Link
+Next-auth for authentication
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
